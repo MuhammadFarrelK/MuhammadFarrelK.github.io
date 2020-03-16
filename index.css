@@ -1,0 +1,9 @@
+h1 {text-align:center;
+	color:red;
+	font-size:50px;}
+body {background-image:url("template_internal.jpg");
+	background-repeat:no-repeat;
+	background-size:2000px 1000px;}
+* {font-family: 'lobster',cursive;}
+table {border-color:red green blue yellow;
+	border-width:5px;}
