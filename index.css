@@ -1,0 +1,23 @@
+h1 {text-align:center;
+	color:red;
+	font-size:50px;
+	text-shadow:2px 2px 5px black;
+	animation-name:example;
+	animation-duration:50s;}
+@keyframes example{
+	  0%   {color: white;}
+  25%  {color: yellow;}
+  50%  {color: blue;}
+  100% {color: green;}
+}
+body {background-image:url("template_internal.jpg");
+	background-repeat:no-repeat;
+	background-size:2000px 1000px;}
+* {font-family: 'lobster',cursive;}
+table {border-color:red green blue yellow;
+	border-width:5px;}
+img {border-radius:1000px;
+	padding:100px;
+	width:350px;
+	height:350px;
+	}
